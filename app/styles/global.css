@@ -1,0 +1,20 @@
+.imgProfile {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: -25%;
+}
+
+.imgProfileContainer {
+    width:300px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 20px;
+}
+
+.aboutMeContainer {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 15px;
+}
